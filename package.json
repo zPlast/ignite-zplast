@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": "git@github.com:lasharela/ignite-zplast.git",
   "homepage": "https://github.com/lasharela/ignite-zplast",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "files": [
     "boilerplate.js",
     "boilerplate",
